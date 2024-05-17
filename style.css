@@ -136,4 +136,9 @@ h2 {
 
 .mail {
   color: #fff;
+  cursor: pointer;
+}
+
+footer {
+  height: 50px;
 }
